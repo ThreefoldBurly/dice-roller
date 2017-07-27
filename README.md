@@ -4,6 +4,8 @@ A simple six-sided dice roller. You can specify a number of dice to be rolled an
 
 This helped me a lot when I taught myself how to build a GUI with *Java Swing* library back in 2011. I remember even drawing the dice in *AutoCAD* first to know how to tell *Swing* what to draw.
 
+![Dice Roller]
+
 #### HOW TO RUN
 
 After cloning the repo add a `bin` directory to it and (on Linux) run commands:
